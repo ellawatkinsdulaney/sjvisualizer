@@ -48,8 +48,8 @@ else: # if OS can't be detected
 
 # SCALEFACTOR = 0.75
 
-min_slice = 0.0001
-min_slice_image = 0.001
+min_slice = 0.055
+min_slice_image = 0.055
 min_slice_percentage_display = 0.01
 decimal_places = 1
 text_font = "Microsoft JhengHei UI"
